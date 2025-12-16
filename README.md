@@ -6,8 +6,9 @@ The objective of this research is to evaluate how Danantara influences **portfol
 
 ### Methodology
 * Portfolio construction using the **Single Index Model (SIM)**
+* **Portfolio Combination** for constructing more unique portfolio
 * Performance evaluation using **Sharpe Ratio** and **VaR-Adjusted Sharpe Ratio (VaRSR)**
-* Comparative analysis of **pre- and post-Danantara periods**
+* Comparative analysis of **pre-Danantara and post-Danantara periods**
 
 ### Key Contribution
 This repository offers an empirical framework for **ESG portfolio evaluation under extreme risk**, providing insights relevant to **academics, investors, and policymakers** interested in sustainable investment strategies in emerging markets.
